@@ -1,2 +1,5 @@
 def new_func:
 	print("Hello")
+
+def new_func2:
+	pass
