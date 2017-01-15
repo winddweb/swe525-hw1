@@ -1,4 +1,4 @@
-# This is a project for course Version Control.
+# This is a project for Version Control course.
 Author: Yifeng Huang
 
 Instructor: Bhairav Mehta
