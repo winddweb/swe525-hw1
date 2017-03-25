@@ -10,3 +10,5 @@ def func3:
 def func4:
 	return "mdzz"
 
+def fn5:
+	pass
