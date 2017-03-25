@@ -7,7 +7,7 @@ def new_func2:
 def func3:
 	pass
 
-def func4r:
+def func4:
 	return "mdzz"
 
 def fn555d:
