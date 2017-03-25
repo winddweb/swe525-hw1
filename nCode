@@ -10,5 +10,5 @@ def func3:
 def func4:
 	return "mdzz"
 
-def fn55:
+def fn555:
 	pass
